@@ -1,0 +1,53 @@
+{
+  "players": [
+    {
+      "number": "1",
+      "name": "a",
+      "role": "BASE",
+      "rating": 1
+    },
+    {
+      "number": "2",
+      "name": "b",
+      "role": "BASE",
+      "rating": 7
+    },
+    {
+      "number": "3",
+      "name": "c",
+      "role": "BASE",
+      "rating": 2
+    },
+    {
+      "number": "4",
+      "name": "d",
+      "role": "PIVOT",
+      "rating": 8
+    },
+    {
+      "number": "5",
+      "name": "e",
+      "role": "PIVOT",
+      "rating": 9
+    },
+    {
+      "number": "6",
+      "name": "f",
+      "role": "PIVOT",
+      "rating": 2
+    },
+    {
+      "number": "7",
+      "name": "g",
+      "role": "ALA-PIVOT",
+      "rating": 3
+    },
+    {
+      "number": "8",
+      "name": "h",
+      "role": "ALA-PIVOT",
+      "rating": 5
+    }
+  ],
+  "expectedExceptionMsg": "Not Enough players for given role: ESCOLTA"
+}

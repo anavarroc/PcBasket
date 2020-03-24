@@ -1,0 +1,80 @@
+[
+    {
+        "number": 22,
+        "name": "Boniato",
+        "role": "PIVOT",
+        "rating": 6
+    },
+    {
+        "number": 1,
+        "name": "Zanahoria",
+        "role": "BASE",
+        "rating": 1
+    },
+    {
+        "number": 2,
+        "name": "Rabano",
+        "role": "BASE",
+        "rating": 7
+    },
+    {
+        "number": 3,
+        "name": "Cebolla",
+        "role": "BASE",
+        "rating": 2
+    },
+    {
+        "number": 4,
+        "name": "Lechuga",
+        "role": "PIVOT",
+        "rating": 8
+    },
+    {
+        "number": 56,
+        "name": "Acelga",
+        "role": "PIVOT",
+        "rating": 9
+    },
+    {
+        "number": 15,
+        "name": "Esparrago",
+        "role": "ALA-PIVOT",
+        "rating": 3
+    },
+    {
+        "number": 8,
+        "name": "Tomate",
+        "role": "ALA-PIVOT",
+        "rating": 5
+    },
+    {
+        "number": 9,
+        "name": "Patata",
+        "role": "ESCOLTA",
+        "rating": 2
+    },
+    {
+        "number": 10,
+        "name": "Col",
+        "role": "ESCOLTA",
+        "rating": 9
+    },
+    {
+        "number": 11,
+        "name": "Kale",
+        "role": "ESCOLTA",
+        "rating": 3
+    },
+    {
+        "number": 99,
+        "name": "Sandia",
+        "role": "ALERO",
+        "rating": 7
+    },
+    {
+        "number": 77,
+        "name": "Tocinete",
+        "role": "BASE",
+        "rating": 2
+    }
+]

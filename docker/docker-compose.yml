@@ -1,0 +1,15 @@
+
+version: "3"
+services:
+  php:
+    image: php_composer
+    build: 
+      context: .
+      dockerfile: ./php/Dockerfile
+    environment:
+      COMPOSER_HOME: /var/www/html/.composer
+    volumes:
+      - ./../:/var/www/html
+    tty: true
+    networks:
+      - default

@@ -1,0 +1,47 @@
+{
+  "players": [
+    {
+      "number": "2",
+      "name": "b",
+      "role": "BASE",
+      "rating": 7
+    },
+    {
+      "number": "3",
+      "name": "c",
+      "role": "BASE",
+      "rating": 2
+    },
+    {
+      "number": "7",
+      "name": "g",
+      "role": "ALA-PIVOT",
+      "rating": 3
+    },
+    {
+      "number": "8",
+      "name": "h",
+      "role": "ALA-PIVOT",
+      "rating": 5
+    },
+    {
+      "number": "9",
+      "name": "i",
+      "role": "ESCOLTA",
+      "rating": 2
+    },
+    {
+      "number": "10",
+      "name": "j",
+      "role": "ESCOLTA",
+      "rating": 9
+    },
+    {
+      "number": "11",
+      "name": "k",
+      "role": "ALERO",
+      "rating": 3
+    }
+  ],
+  "expectedExceptionMsg": "Not Enough players for given role: PIVOT"
+}
