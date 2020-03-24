@@ -76,5 +76,11 @@
         "name": "Tocinete",
         "role": "BASE",
         "rating": 2
+    },
+    {
+        "number": 44,
+        "name": "Potato",
+        "role": "PIVOT",
+        "rating": 1
     }
 ]

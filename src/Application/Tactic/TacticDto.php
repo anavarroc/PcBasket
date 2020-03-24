@@ -6,7 +6,7 @@ use PcBasket\Application\Player\PlayerDto;
 use PcBasket\Application\Player\PlayerDtoCollection;
 use PcBasket\Domain\Tactic\Tactic;
 
-class acticDto
+class TacticDto
 {
     private string $tacticName;
     private PlayerDtoCollection $players;
